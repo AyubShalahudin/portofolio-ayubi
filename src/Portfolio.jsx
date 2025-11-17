@@ -106,7 +106,7 @@ export default function Portfolio() {
 
             <div className="p-4 bg-white rounded-lg shadow-sm">
               <h4 className="font-semibold">Studi Independen & Courses</h4>
-              <p className="text-sm text-gray-600">Januari 2024 — Juni 2025 (timeline magang (6 bulan) )</p>
+              <p className="text-sm text-gray-600">Januari 2024 — Juni 2024 (timeline magang (6 bulan) )</p>
               <p className="mt-2 text-gray-600">Mengikuti program Studi Independen Bersertifikat — topik: MySQL, NodeJS, Express, cloud, cybersecurity fundamentals, design video showcase,Softskill Training.</p>
             </div>
           </div>
