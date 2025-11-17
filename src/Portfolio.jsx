@@ -26,7 +26,7 @@ export default function Portfolio() {
         <section id="hero" className="grid md:grid-cols-2 gap-8 items-center">
           <div>
             <h2 className="text-3xl md:text-4xl font-extrabold leading-tight">Halo, saya Muhammad Shalahudin</h2>
-            <p className="mt-4 text-gray-600">Saya seorang web developer berpengalaman dengan fokus pada backend (Laravel, Node.js), integrasi payment gateway, perancangan sistem internal untuk pemerintahan/perusahaan kecil, dan analisis data sederhana untuk kebutuhan peramalan stok.</p>
+            <p className="mt-4 text-gray-600">Saya seorang web developer berpengalaman dengan baik backend maupun frontend (Laravel, Node.js,MySql, Laragon, Figma, CSS, Tailwind, Bootsrap), perancangan sistem internal untuk pemerintahan/perusahaan kecil, dan analisis data sederhana untuk kebutuhan peramalan stok.</p>
 
             <div className="mt-6 flex gap-3">
               <a href="#projects" className="inline-block px-4 py-2 rounded-lg bg-gradient-to-r from-green-500 to-blue-500 text-white font-medium">Lihat Project</a>
@@ -93,7 +93,7 @@ export default function Portfolio() {
               <div className="flex justify-between items-start">
                 <div>
                   <h4 className="font-semibold">Magang — Bakesbangpol (Website WASDIN)</h4>
-                  <p className="text-sm text-gray-600">November 2024 — selesai</p>
+                  <p className="text-sm text-gray-600">Agustus 2024 — Desember 2024 (6 Bulan )</p>
                   <p className="mt-2 text-gray-600">Membangun sistem pelaporan berbasis Laravel sesuai permintaan Bakesbangpol Kota Batu — multi-role, manajemen laporan, dan otorisasi.</p>
                 </div>
               </div>
@@ -101,13 +101,13 @@ export default function Portfolio() {
 
             <div className="p-4 bg-white rounded-lg shadow-sm">
               <h4 className="font-semibold">Proyek Skripsi — Sistem pengelolaan stok produk untuk UD Mulia Rasa</h4>
-              <p className="text-sm text-gray-600">Feb 2025 — Mar 2025 (timeline pengerjaan)</p>
               <p className="mt-2 text-gray-600">Pengembangan full-stack dengan fitur inventory forecasting, import/export data penjualan, dan implementasi metode forecasting.</p>
             </div>
 
             <div className="p-4 bg-white rounded-lg shadow-sm">
               <h4 className="font-semibold">Studi Independen & Courses</h4>
-              <p className="mt-2 text-gray-600">Mengikuti program Studi Independen Bersertifikat — topik: MySQL, NodeJS, Express, cloud, cybersecurity fundamentals, design video showcase.</p>
+              <p className="text-sm text-gray-600">Januari 2024 — Juni 2025 (timeline magang (6 bulan) )</p>
+              <p className="mt-2 text-gray-600">Mengikuti program Studi Independen Bersertifikat — topik: MySQL, NodeJS, Express, cloud, cybersecurity fundamentals, design video showcase,Softskill Training.</p>
             </div>
           </div>
         </section>
@@ -120,8 +120,8 @@ export default function Portfolio() {
             <div className="p-4 bg-white rounded-lg shadow-sm">MySQL</div>
             <div className="p-4 bg-white rounded-lg shadow-sm">Node.js & Express</div>
             <div className="p-4 bg-white rounded-lg shadow-sm">Authentication (Passport.js)</div>
-            <div className="p-4 bg-white rounded-lg shadow-sm">Xendit Integration</div>
-            <div className="p-4 bg-white rounded-lg shadow-sm">Forecasting (WMA, EOQ)</div>
+            <div className="p-4 bg-white rounded-lg shadow-sm">Proper Softskill & Hardskill</div>
+            <div className="p-4 bg-white rounded-lg shadow-sm">Intermediate English Speaker</div>
             <div className="p-4 bg-white rounded-lg shadow-sm">Frontend (Blade, Tailwind)</div>
           </div>
         </section>
